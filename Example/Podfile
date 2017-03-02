@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'lookLibIOS_Example' do
+  pod 'lookLibIOS', :path => '../'
+
+  target 'lookLibIOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
