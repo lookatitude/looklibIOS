@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'lookLibIOS'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of lookLibIOS.'
+  s.summary          = 'lookLibIOS is a collection of tools to help with IOS developement.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -26,9 +26,9 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Pinto' => 'miguel.pinto@lookatitude.com' }
   s.source           = { :git => 'https://github.com/Miguel Pinto/lookLibIOS.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/lookatitude'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'lookLibIOS/Classes/**/*'
   
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

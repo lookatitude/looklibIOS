@@ -1,0 +1,6 @@
+framework module lookLibIOS {
+  umbrella header "lookLibIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

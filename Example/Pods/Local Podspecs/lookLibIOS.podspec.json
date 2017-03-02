@@ -1,0 +1,22 @@
+{
+  "name": "lookLibIOS",
+  "version": "0.1.0",
+  "summary": "A short description of lookLibIOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Miguel Pinto/lookLibIOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Miguel Pinto": "miguel.pinto@lookatitude.com"
+  },
+  "source": {
+    "git": "https://github.com/Miguel Pinto/lookLibIOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "lookLibIOS/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - lookLibIOS (0.1.0)
+
+DEPENDENCIES:
+  - lookLibIOS (from `../`)
+
+EXTERNAL SOURCES:
+  lookLibIOS:
+    :path: ../
+
+SPEC CHECKSUMS:
+  lookLibIOS: 9ec9c907abe7931e85108e9b431ce88ef677a36f
+
+PODFILE CHECKSUM: 1b587cb97b8641a598c4875390937239404f90ce
+
+COCOAPODS: 1.2.0

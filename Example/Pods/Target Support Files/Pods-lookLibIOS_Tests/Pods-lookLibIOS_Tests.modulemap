@@ -1,0 +1,6 @@
+framework module Pods_lookLibIOS_Tests {
+  umbrella header "Pods-lookLibIOS_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
